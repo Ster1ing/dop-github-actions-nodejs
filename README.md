@@ -1,5 +1,5 @@
 <!-- [START BADGES] -->
-[![Test CI](https://github.com/{{REPO_URL}}/actions/workflows/test-main.yml/badge.svg)](https://github.com/{{REPO_URL}}/actions/workflows/test-main.yml)
+[![Test CI](https://github.com/Practical-DevOps-GitHubActions/ga-task1-Ster1ing/actions/workflows/test-main.yml/badge.svg)](https://github.com/Practical-DevOps-GitHubActions/ga-task1-Ster1ing/actions/workflows/test-main.yml)
 <!-- [END BADGES] -->
 
 # Task on the Github Actions Topic 
